@@ -3,7 +3,7 @@
 
 ##  Business Problem
 
-Armut, largest online service platform in Turkey, brings together service providers and service recipients. It provides easy access to services such as cleaning, remodeling and transportation with a few taps on your computer or smartphone. A product recommendation system was created with Association Rule Learning using a data set that includes service users and the services and categories that these users have received.
+Armut, the largest online service platform in Turkey, brings together service providers and service recipients. It provides easy access to services such as cleaning, remodeling and transportation with a few taps on your computer or smartphone. A product recommendation system was created with Association Rule Learning using a data set that includes service users and the services and categories that these users have received.
 
 ##  About Dataset
 
